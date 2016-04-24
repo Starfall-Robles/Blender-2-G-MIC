@@ -4,6 +4,9 @@ B2G is a Python script that allows you to access G'MIC's image processing featur
 
 Blend file/script to be available shortly....
 
+
+
+
 Overview of features at YouTube:
 
 **Creative Imagery with Blender-2-G'MIC**
