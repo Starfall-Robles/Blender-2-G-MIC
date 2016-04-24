@@ -12,6 +12,7 @@ Creative Imagery with Blender-2-G'MIC
 
 
 Blender-2-G'MIC Feature Update
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p1twxAsLb6o/0.jpg)](https://www.youtube.com/watch?v=p1twxAsLb6o)
 
 
