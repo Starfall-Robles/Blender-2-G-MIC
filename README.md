@@ -4,7 +4,7 @@ B2G is a Python script that allows you to access a selected range of G'MIC's ima
 
 This is experimental Alpha release software likely to contain bugs that might cause Blender and/or G'MIC to encounter difficulties. It is provided without a warranty of any kind (see GPL software license included with the script).
 
-The code should recognize whether it's being used on Linux or Windows; however, if you start using the blend file on one system, it's best to keep it there rather than trying to treat it as totally portable. File paths, image formats and codec issues all come into play. Issues that can rear their head are pathname symbols and spaces in file/folder names. Best not to have spaces. Blender can employ an internal "Relative Path" notation that will prevent B2G from working well. Relative paths can be turned off permanently in the Users Preferences window, or, more simply, you can select "External Data/Make All Paths Absolute" from the File Menu to ensure images are referenced so G'MIC can find them.
+The code should recognize whether it's being used on Linux or Windows; however, if you start using the blend file on one system, it's best to keep it there rather than trying to treat it as totally portable. File paths, image formats and codec issues all come into play. Issues that may be problematic are pathname symbols and spaces in file/folder names. Best not to have spaces. Blender can employ an internal "Relative Path" notation that will prevent B2G from working well. Relative paths can be turned off permanently in the Users Preferences window, or, more simply, you can select "External Data/Make All Paths Absolute" from the File Menu to ensure images are referenced so G'MIC can find them.
 
 **PREREQUISITES**
 
