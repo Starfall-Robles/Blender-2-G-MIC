@@ -36,7 +36,8 @@ Overview of script features at YouTube:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p1twxAsLb6o/0.jpg)](https://www.youtube.com/watch?v=p1twxAsLb6o)
 
 
-Details on how to enable the link between Blender and G'MIC are given in the following video.
+
+Details on how to enable the link between Blender and G'MIC and general usage info are given in the following video.
 
 **3. Initial Settings & Use**
 
