@@ -24,7 +24,7 @@ To use Blender-2-G'MIC on Linux or Windows you will need:
 
 
 
-It is recommended that you check out the script development history and range of script features at YouTube:
+**It is recommended that you check out the script development history and range of script features at YouTube:**
 
 **1. Creative Imagery with Blender-2-G'MIC - Early Version**
 
@@ -44,7 +44,7 @@ Details on how to enable the link between Blender and G'MIC and general usage in
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TSzoEXAV1zs/0.jpg)](https://www.youtube.com/watch?v=TSzoEXAV1zs)
 
 
-WORTH NOTING
+**WORTH NOTING**
 
 The G'MIC image processing system currently offers over 460 different filters, with more being added every day. B2G's filter offerings are currently limited to a selection of about 20 fully-featured filters with slider adjustments (filters can be added/removed with a small amount of extra work via panel and menu definitions).
 
