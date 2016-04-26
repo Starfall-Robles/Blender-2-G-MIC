@@ -5,6 +5,7 @@ B2G is a Python script that allows you to access G'MIC's image processing featur
 This is experimental Alpha release software likely to contain bugs that might cause Blender and/or G'MIC to malfunction. It also makes use of Windows/Linux system features that may encounter difficulties. It is provided without a warranty of any kind (see GPL software license included with the script).
 
 **INSTALLATION & USE**
+
 To use Blender-2-G'MIC you will need:
 
 *  Blender 2.76 or 2.77
