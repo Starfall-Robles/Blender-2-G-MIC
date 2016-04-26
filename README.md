@@ -12,7 +12,7 @@ To use Blender-2-G'MIC on Linux or Windows you will need:
 
 *  At least Blender 2.76 (works with 2.77, but not fully tested)
 
-   *If B2G UI does not appear, make sure to select "Load UI"  in the Open File Window.*
+   **_If B2G UI does not appear, make sure to select "Load UI"  in the Open File Window._**
 
       https://www.blender.org/download/
       
