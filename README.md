@@ -22,7 +22,7 @@ To use Blender-2-G'MIC you will need:
 
 
 
-Overview of features at YouTube:
+Overview of script features at YouTube:
 
 **1. Creative Imagery with Blender-2-G'MIC**
 
