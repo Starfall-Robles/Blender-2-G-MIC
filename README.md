@@ -8,7 +8,7 @@ While the code should recognize whether it's being used on Linux or Windows, whe
 
 **PREREQUISITES**
 
-To use Blender-2-G'MIC you will need:
+To use Blender-2-G'MIC on Linux or Windows you will need:
 
 *  Blender 2.76 or 2.77
 
