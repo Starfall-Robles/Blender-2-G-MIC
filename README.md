@@ -42,3 +42,10 @@ Details on how to enable the link between Blender and G'MIC and general usage in
 **3. Initial Settings & Use - Alpha Release**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TSzoEXAV1zs/0.jpg)](https://www.youtube.com/watch?v=TSzoEXAV1zs)
+
+
+WORTH NOTING
+
+The G'MIC image processing system currently offers over 460 different filters, with more being added every day. B2G's filter offerings are currently limited to a selection of about 20 fully-featured filters with slider adjustments (filters can be added/removed with a small amount of extra work via panel and menu definitions).
+
+Basic access to the many other filters is still possible through the use of VSE Command Strips. These allow you to save "favorite" filter settings that you may encounter while reviewing other G'MIC users work, or that you generate yourself using the G'MIC Gimp Plugin,  
