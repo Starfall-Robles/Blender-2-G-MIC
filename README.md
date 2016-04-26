@@ -9,12 +9,12 @@ Blend file/script to be available shortly....
 
 Overview of features at YouTube:
 
-**Creative Imagery with Blender-2-G'MIC**
+**1. Creative Imagery with Blender-2-G'MIC**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4Q78OPmbn3o/0.jpg)](https://www.youtube.com/watch?v=4Q78OPmbn3o)
 
 
-**Blender-2-G'MIC Feature Update**
+**2. Blender-2-G'MIC Feature Update**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p1twxAsLb6o/0.jpg)](https://www.youtube.com/watch?v=p1twxAsLb6o)
 
