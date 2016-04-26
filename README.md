@@ -26,7 +26,7 @@ To use Blender-2-G'MIC on Linux or Windows you will need:
 
 **It is recommended that you check out the script development history and range of script features at YouTube:**
 
-**1. Creative Imagery with Blender-2-G'MIC - First Version**
+**1. Creative Imagery with Blender-2-G'MIC**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4Q78OPmbn3o/0.jpg)](https://www.youtube.com/watch?v=4Q78OPmbn3o)
 
