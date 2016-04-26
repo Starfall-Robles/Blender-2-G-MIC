@@ -34,6 +34,8 @@ Overview of features at YouTube:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p1twxAsLb6o/0.jpg)](https://www.youtube.com/watch?v=p1twxAsLb6o)
 
 
-**3. Settings & Use**
+Details on how to enable the link between Blender and G'MIC are given in the following video.
+
+**3. Initial Settings & Use**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TSzoEXAV1zs/0.jpg)](https://www.youtube.com/watch?v=TSzoEXAV1zs)
