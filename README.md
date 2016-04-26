@@ -10,7 +10,7 @@ The code should recognize whether it's being used on Linux or Windows; however, 
 
 To use Blender-2-G'MIC on Linux or Windows you will need:
 
-*  At least Blender 2.76 (works with 2.77, but not fully tested)
+*  At least Blender 2.76b (works with 2.77, but not fully tested)
 
    **_If B2G UI does not appear, make sure to select "Load UI"  in the Open File Window._**
 
