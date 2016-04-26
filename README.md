@@ -9,6 +9,9 @@ This is experimental Alpha release software likely to contain bugs that might ca
 To use Blender-2-G'MIC you will need:
 
 *  Blender 2.76 or 2.77
+
+      https://www.blender.org/download/
+      
 *  The G'MIC software installed and added to your System path, or alternatively, the standalone version.       
 
       http://gmic.eu/download.shtml
