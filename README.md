@@ -55,7 +55,7 @@ To use Blender-2-G'MIC on Linux or Windows you will need:
 
 **CURRENT FILTER AVAILABILITY**
 
-The G'MIC image processing system currently offers over 460 different filters, with more being added on a regular basis. B2G's filter offerings are currently limited to a selection of about 20 fully-featured filters with slider adjustments (filters can be added/removed with a small amount of extra work via panel and menu definitions).
+The G'MIC image processing system currently offers over 460 different filters, with more being added on a regular basis. B2G's filter offerings are currently limited to a selection of about 26 fully-featured filters with slider adjustments (filters can be added/removed with a small amount of extra work via panel and menu definitions).
 
 Basic access to the many other filters is still possible through the use of VSE Command Strips. These allow you to save to the VSE Timeline "favorite" filter settings that you may encounter while reviewing other G'MIC users work, or that you generate yourself using the G'MIC Gimp Plugin. This library of presets can then be applied directly to image assets with just a few clicks. A selection of such strips are provided as examples in the alpha release blend file.  
 
