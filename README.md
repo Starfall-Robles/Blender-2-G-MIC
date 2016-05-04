@@ -1,6 +1,7 @@
 # Blender-2-G'MIC
 
 **Update (5-3-16):**
+
 Alpha2 version is now available. This latest version features a set of six new "Sequence" filters that allow you to enhance still images by animating filter effects over time. The results are saved as an image sequence. Examples in the video below show a range of filter possibilities as applied to lettering/logos and images. The script has also been updated. 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/omGe6VF5WBs/0.jpg)](https://www.youtube.com/watch?v=omGe6VF5WBs)
