@@ -59,5 +59,6 @@ The G'MIC image processing system currently offers over 460 different filters, w
 
 Basic access to the many other filters is still possible through the use of VSE Command Strips. These allow you to save to the VSE Timeline "favorite" filter settings that you may encounter while reviewing other G'MIC users work, or that you generate yourself using the G'MIC Gimp Plugin. This library of presets can then be applied directly to image assets with just a few clicks. A selection of such strips are provided as examples in the alpha release blend file.  
 
+
 [![Alt Text Here](https://github.com/Starfall-Robles/Blender-2-G-MIC/raw/master/DragonTwirl.gif)
 
