@@ -1,5 +1,11 @@
 # Blender-2-G'MIC
 
+**Update (5-3-16):**
+Alpha2 version is now available. This latest version features a set of six new "Sequence" filters that allow you to enhance still images by animating filter effects over time. The results are saved as an image sequence. Examples in the video below show a range of filter possibilities as applied to lettering/logos and images. The script has also been updated. 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/omGe6VF5WBs/0.jpg)](https://www.youtube.com/watch?v=omGe6VF5WBs)
+
+
 B2G is a Python script that allows you to access a selected range of G'MIC's image processing features from within the Blender Video Sequence Editor (VSE). With the script, you can creatively filter single images, image sequences, and movie files.
 
 This is experimental Alpha release software likely to contain bugs that might cause Blender and/or G'MIC to encounter difficulties. It is provided without a warranty of any kind (see GPL software license included with the script).
