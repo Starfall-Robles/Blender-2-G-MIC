@@ -62,5 +62,5 @@ Basic access to the many other filters is still possible through the use of VSE 
 
 **TWIRLING DRAGON - Created with Blender-2-G'MIC's "Twirl Animated" filter**
 
-[![Alt Text Here](https://github.com/Starfall-Robles/Blender-2-G-MIC/raw/master/DragonTwirl.gif)
+![Alt Text Here](https://github.com/Starfall-Robles/Blender-2-G-MIC/raw/master/DragonTwirl.gif)
 
