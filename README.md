@@ -48,7 +48,7 @@ To use Blender-2-G'MIC on Linux or Windows you will need:
 
 **Important info on enabling the link between Blender/G'MIC and further usage is given in the following video.**
 
-**3. Initial Settings & Use - Alpha Release**
+**3. Settings & Use - Alpha Release**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TSzoEXAV1zs/0.jpg)](https://www.youtube.com/watch?v=TSzoEXAV1zs)
 
