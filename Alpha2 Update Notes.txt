@@ -1,0 +1,6 @@
+Update 5-2-16
+
+Alpha2 version is now available. This latest version features a set of six new "Sequence" filters that allow
+you to enhance still images by animating filter effects over time. The results are saved as an image sequence.
+Examples in the video below show a range of filter possibilities as applied to lettering/logos and images
+(see also Dragon Twirl image on this page). The main script has also been updated. 
