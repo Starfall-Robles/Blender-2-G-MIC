@@ -1,12 +1,5 @@
 # Blender-2-G'MIC
 
-**Update (5-3-16):**
-
-Alpha2 version is now available. This latest version features a set of six new "Sequence" filters that allow you to enhance still images by animating filter effects over time. The results are saved as an image sequence. Examples in the video below show a range of filter possibilities as applied to lettering/logos and images (see also Dragon image at bottom of this page). The script has also been updated. 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/omGe6VF5WBs/0.jpg)](https://www.youtube.com/watch?v=omGe6VF5WBs)
-
-
 B2G is a Python script that allows you to access a selected range of G'MIC's image processing features from within the Blender Video Sequence Editor (VSE). With the script, you can creatively filter single images, image sequences, and movie files.
 
 This is experimental Alpha release software likely to contain bugs that might cause Blender and/or G'MIC to encounter difficulties. It is provided without a warranty of any kind (see GPL software license included with the script).
@@ -59,6 +52,9 @@ The G'MIC image processing system currently offers over 460 different filters, w
 
 Basic access to the many other filters is still possible through the use of VSE Command Strips. These allow you to save to the VSE Timeline "favorite" filter settings that you may encounter while reviewing other G'MIC users work, or that you generate yourself using the G'MIC Gimp Plugin. This library of presets can then be applied directly to image assets with just a few clicks. A selection of such strips are provided as examples in the alpha release blend file.  
 
+**ANIMATING STILL IMAGES**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/omGe6VF5WBs/0.jpg)](https://www.youtube.com/watch?v=omGe6VF5WBs)
 
 **TWIRLING DRAGON - Created with Blender-2-G'MIC's "Twirl Animated" filter**
 
