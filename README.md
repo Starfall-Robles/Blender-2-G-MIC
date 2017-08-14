@@ -2,7 +2,7 @@
 UPDATE 8/13/17
 The G'MIC team recently released a major QT-based revision of their software, essentially making the old GTK-based version obsolete (it still works, but will no longer be maintained). While Blender-2-GMIC offered access to a selection of filters based on the CLI version, the new QT version provides the opportunity to use a full range of filters relevant to processing timeline strips in Blender's Video Sequence Editor. Demonstration video of Blender working with G'MIC-Qt at YouTube:
 
-    https://youtu.be/HjirpBBxAYU
+[![IMAGE ALT TEXT HERE](https://youtu.be/HjirpBBxAYU)
 
 
 # Blender-2-G'MIC
@@ -25,7 +25,7 @@ To use Blender-2-G'MIC on Linux or Windows you will need:
       
 *  The G'MIC software installed and added to your System path, or alternatively, the standalone version.       
 
-      http://gmic.eu/download.shtml
+http://gmic.eu/download.shtml
 
 
 
