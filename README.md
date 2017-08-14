@@ -1,3 +1,10 @@
+
+UPDATE 8/13/17
+The G'MIC team recently released a major QT-based revision of their software, essentially making the old GTK-based version obsolete (it still works, but will no longer be maintained). While Blender-2-GMIC offered access to a selection of filters based on the CLI version, the new QT version provides the opportunity to use a full range of filters relevant to processing timeline strips in Blender's Video Sequence Editor. Demonstration video of Blender working with G'MIC-Qt at YouTube:
+
+    https://youtu.be/HjirpBBxAYU
+
+
 # Blender-2-G'MIC
 
 B2G is a Python script that allows you to access a selected range of G'MIC's image processing features from within the Blender Video Sequence Editor (VSE). With the script, you can creatively filter single images, image sequences, and movie files.
